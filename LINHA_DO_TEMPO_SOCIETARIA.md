@@ -19,16 +19,16 @@ Concessão Administrativa CIVAP nº 02/2022 (Concorrência Pública nº 001/2021
 | 29/07/2022 | **1ª Alteração Contratual** (mesmo dia): capital R$ 10 mil → **R$ 5 milhões**; transformação em **S.A. fechada**. Quadro: **Sigla 44,5% \| MPE 44,5% \| Fortnort 11%**. Conselho: Marcelo de Castro Faria Ferreira (presidente), Fernando Peixoto, Caio Marco de Stefano. RCA elege diretoria: Fernando Peixoto (diretor-presidente), Marcelo e Renan (diretores). Registro JUCESP 05/10/2022 | acdddf47 / 9e43365f; b4a6d7a7 (ata eleição) |
 | 19–25/10/2022 | **8ª Vara Federal de Execução Fiscal/RJ** (EF 5095608-04.2019.4.02.5101) reconhece **grupo econômico** MPE (MPE Engenharia + MPE Participação e Administração + MPE Agronegócios + controlador PF **Renato Ribeiro Abreu**) e decreta **indisponibilidade de todas as suas cotas/ações/participações**, registrada na JUCESP em 25/10/2022 | "Retirada de sócio" (peças judiciais) |
 
-## Fase 2 — A troca silenciosa de controle (2023)
+## Fase 2 — Alteração do quadro acionário (2023)
 
 | Data | Evento | Fonte |
 |---|---|---|
 | 31/05/2023 | AGE muda a sede de São Paulo (Alameda Santos, 2.326, cj. 27) para **Assis/SP**. Sigla, MPE e Fortnort ainda detêm 100%. **Última aparição das fundadoras** | 7a50f31a |
-| jun–out/2023 | **LACUNA DOCUMENTAL CENTRAL**: as 5.000.000 ações das três fundadoras passam integralmente à holding **GERPAR — Geração de Energia por Resíduos (Sólidos) Participações Ltda.** (CNPJ 47.053.381/0001-30). Não há no acervo: instrumento de cessão, livros de ações, preço, data — **nem anuência do CIVAP**. A transferência ocorre **durante a vigência da indisponibilidade judicial** sobre as participações do grupo MPE | cd055bbc; Dossiê §3.3 |
-| 05/10/2023 | **AGE "do gato"**: GERPAR comparece já dona de 100%; entram por subscrição **Carbogás Energia Ltda.** (2.000.000 ações, ~26%) e **Redstone Participações** (692.307 ações, ~9%); capital → R$ 7.692.307. GERPAR fica com ~65% e renuncia à preferência. Parte da integralização se dá por **conversão de AFACs pré-existentes** (Carbogás R$ 428 mil; Redstone R$ 148 mil) — os "novos" sócios já financiavam a SPE antes de entrar. Assinado **Acordo de Acionistas** (não fornecido no acervo). Conselho: saem Fernando Peixoto e Caio Marco; entram **Carlos Geo Quick** e **Carlos Eduardo Alvim** (Carbogás); permanece Marcelo de Castro | cd055bbc |
+| jun–out/2023 | **Lacuna documental**: as 5.000.000 ações das três fundadoras passam integralmente à holding **GERPAR — Geração de Energia por Resíduos (Sólidos) Participações Ltda.** (CNPJ 47.053.381/0001-30). Não constam do acervo: instrumento de cessão, livros de ações, preço, data e anuência do CIVAP. O período coincide com a vigência da indisponibilidade judicial sobre as participações do grupo MPE (out/2022–mai/2025) | cd055bbc; Dossiê §3.3 |
+| 05/10/2023 | **AGE**: GERPAR comparece já titular de 100%; entram por subscrição **Carbogás Energia Ltda.** (2.000.000 ações, ~26%) e **Redstone Participações** (692.307 ações, ~9%); capital → R$ 7.692.307. GERPAR fica com ~65% e renuncia à preferência. Parte da integralização se dá por **conversão de AFACs pré-existentes** (Carbogás R$ 428 mil; Redstone R$ 148 mil) — os "novos" sócios já financiavam a SPE antes de entrar. Assinado **Acordo de Acionistas** (não fornecido no acervo). Conselho: saem Fernando Peixoto e Caio Marco; entram **Carlos Geo Quick** e **Carlos Eduardo Alvim** (Carbogás); permanece Marcelo de Castro | cd055bbc |
 | 05/10/2023 | RCA (2h depois): **Carlos Geo Quick** presidente do Conselho; renúncias de Fernando Peixoto e Marcelo de Castro à diretoria; **Renan Perlingeiro** vira diretor-presidente; **Luciano Reis Infiesta** (Carbogás) diretor técnico; diretoria operacional vaga. Registro JUCESP 09/11/2023 | 95568078 |
 
-## Fase 3 — Consolidação e racha entre os novos sócios (2024–2026)
+## Fase 3 — Aumentos de capital e divergências entre acionistas (2024–2026)
 
 | Data | Evento | Fonte |
 |---|---|---|
@@ -49,15 +49,15 @@ Concessão Administrativa CIVAP nº 02/2022 (Concorrência Pública nº 001/2021
 | jun–out/2023 | GERPAR 100% (transferência não documentada) |
 | 05/10/2023 – hoje | GERPAR ~65% \| Carbogás ~26% \| Redstone ~9% |
 
-## Pontos críticos ("o gato")
+## Pontos pendentes de comprovação documental
 
-1. **Transferência de 100% do controle sem anuência do CIVAP no acervo** — hipótese de **caducidade imediata** da concessão (cláusula 34.2 do contrato, que alcança até transferências *indiretas via controladores*; art. 27 da Lei 8.987/95; art. 9º, §1º, da Lei 11.079/04).
-2. **A transferência ocorreu durante a indisponibilidade judicial** das participações do grupo MPE (out/2022 a mai/2025) — a saída da MPE pode ter envolvido bens indisponíveis.
-3. **A GERPAR tem sede no mesmo endereço da primeira sede da SPE e da MPE** (Alameda Santos, 2.326, cj. 27, SP) e foi representada na AGE pelos **mesmos administradores da era das fundadoras** (Fernando Peixoto e Renan Perlingeiro). A numeração do CNPJ (47.053.381 vs. 47.167.066 da SPE) sugere criação na mesma época, meados de 2022 — indício de veículo preparado desde o início (inferência; data de abertura da GERPAR não consta do acervo).
-4. **Esvaziamento da habilitação técnica**: as três empresas cujos atestados venceram a licitação (MPE líder) saíram por completo em ~14 meses, sem requalificação documentada da adquirente.
-5. **AFACs pré-entrada**: Carbogás e Redstone já aportavam recursos antes de serem acionistas formais.
-6. **Racha societário**: voto da Carbogás desconsiderado em 2024; seu conselheiro ausente desde 2024 e renunciante em 2025; hoje 26% do capital sem representação na administração. O Acordo de Acionistas de 05/10/2023, peça-chave, não está no acervo.
-7. **Rede de sobrenomes recorrentes**: *Quick* (Quick Pecuária, sócia da fundadora Sigla ↔ Carlos Geo Quick, presidente do Conselho ↔ Cristiano Geo Quick, representante da GERPAR); *Abreu* (Renato Ribeiro Abreu, controlador do grupo MPE ↔ Renan Perlingeiro de Abreu Junior, e-mail @mpeengenharia ↔ Adagir de Salles Abreu Filho); *Infiesta/Alvim* (administradores da Carbogás em cargos da SPE). Parentescos não comprovados documentalmente.
+1. **Anuência do CIVAP à transferência do controle**: não consta do acervo. A cláusula 34.2 do contrato prevê caducidade para transferência de controle sem anuência prévia, inclusive por via indireta através de controladores; no mesmo sentido, art. 27 da Lei 8.987/95 e art. 9º, §1º, da Lei 11.079/04. A existência de eventual processo de anuência no CIVAP não foi verificada.
+2. **Período da transferência**: a passagem das ações à GERPAR ocorreu entre 31/05 e 05/10/2023, intervalo contido na vigência da indisponibilidade judicial sobre as participações do grupo MPE (out/2022 a mai/2025). O alcance da ordem sobre as ações da MPE na SPE depende do exame dos autos.
+3. **Registros coincidentes entre GERPAR e SPE**: a GERPAR foi aberta em 06/07/2022 (cadastro RFB), antes do CNPJ da SPE (15/07/2022) e da assinatura do contrato (29/07/2022); teve sede no mesmo conjunto da primeira sede da SPE (Alameda Santos, 2.326, cj. 27, SP — mesmo edifício da MPE) e compartilha o telefone cadastral da SPE. Foi representada na AGE de 05/10/2023 por Fernando Peixoto e Renan Perlingeiro, administradores da SPE desde a constituição. Ver detalhamento em `ENGENHARIA_SOCIETARIA.md`.
+4. **Qualificação técnica após a alteração acionária**: as três empresas cujos atestados instruíram a habilitação (MPE, líder) deixaram o capital da SPE em aproximadamente 14 meses; não consta do acervo requalificação da adquirente nos termos do item 22.5.1 do edital.
+5. **AFACs anteriores ao ingresso**: Carbogás e Redstone realizaram aportes à SPE antes de seu ingresso formal no capital, capitalizados na AGE de 05/10/2023.
+6. **Divergências entre acionistas**: voto da Carbogás não computado em 2024 (art. 118, §8º, Lei 6.404/76, com base no Acordo de Acionistas); seu conselheiro ausente desde 2024 e renunciante em 2025; na data das certidões mais recentes, os 26% da Carbogás não têm representante na administração. O Acordo de Acionistas de 05/10/2023 não consta do acervo.
+7. **Pessoas e sobrenomes recorrentes**: *Quick* (Quick Pecuária, sócia da fundadora Sigla; Carlos Geo Quick, presidente do Conselho da SPE; Cristiano Geo Quick, representante da GERPAR); *Abreu* (Renato Ribeiro Abreu, indicado como controlador do grupo MPE em decisão judicial; Renan Perlingeiro de Abreu Junior, e-mail @mpeengenharia; Adagir de Salles Abreu Filho); *Infiesta/Alvim* (administradores da Carbogás com cargos na SPE). Relações de parentesco não comprovadas documentalmente.
 
 ## Lacunas documentais que fechariam a análise
 

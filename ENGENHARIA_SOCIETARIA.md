@@ -1,135 +1,149 @@
-# Anatomia da Engenharia Societária — BAL CIVAP SPE S.A.
+# Estrutura Societária — BAL CIVAP SPE S.A. e Partes Relacionadas
 
-Aprofundamento do capítulo societário: como a troca de controle foi montada, por quem e com quais instrumentos. Combina o acervo documental (pasta `documentos/`) com dados cadastrais públicos da Receita Federal (consultas via BrasilAPI em 13/08/2026). CPFs citados nas atas do acervo conferem com os CPFs mascarados do cadastro público em todos os cruzamentos indicados.
+Levantamento descritivo da composição societária e administrativa da concessionária e das sociedades a ela relacionadas. Combina o acervo documental (pasta `documentos/`) com dados cadastrais públicos da Receita Federal do Brasil (consultas via BrasilAPI em 13/08/2026). Onde indicado, os CPFs constantes das atas do acervo conferem com os CPFs parcialmente mascarados do cadastro público.
+
+Este documento registra fatos e datas com suas fontes. Hipóteses e questões pendentes estão listadas separadamente na seção 9.
 
 ---
 
-## 1. O veículo: GERPAR foi criada ANTES do contrato de concessão
+## 1. GERPAR — dados cadastrais públicos
 
-Dados cadastrais públicos da **Geração de Energia por Resíduos Participações** (CNPJ 47.053.381/0001-30):
+**Geração de Energia por Resíduos Participações S.A.** (CNPJ 47.053.381/0001-30), titular de aproximadamente 65% do capital da SPE desde 05/10/2023 (e da totalidade entre data não documentada e 05/10/2023).
 
-| Campo | Dado | Leitura |
-|---|---|---|
-| **Data de abertura** | **06/07/2022** | **23 dias ANTES da assinatura do contrato** (29/07/2022) e 9 dias antes do CNPJ da própria SPE (15/07/2022). O veículo que ficaria com 65-100% da concessionária já existia antes de a concessão ser assinada |
-| Natureza jurídica | **Sociedade Anônima Fechada** (hoje) | Acionistas invisíveis ao cadastro público — mesma técnica de opacidade usada na SPE |
-| Nome/objeto | "Geração de Energia por Resíduos" / holding | Batizada para o negócio exato da concessão, antes de existir concessão |
-| Capital social | R$ 6.000.000 | — |
-| Telefone | **(11) 5180-6666 — o mesmo telefone cadastral da SPE** | Mesma retaguarda administrativa |
-| Sede original (atas 2023) | Alameda Santos, 2.326, cj. 27, SP | Mesmo conjunto da 1ª sede da SPE e domicílio declarado de Fernando Peixoto no contrato; mesmo prédio da MPE (cj. 144) |
-| Sede atual | Av. Nove de Julho, 5.617, sala 12A, SP | — |
-
-**Administração atual da GERPAR (QSA público): um representante de cada campo fundador**
-
-| Diretor da GERPAR | Entrada | Campo de origem |
-|---|---|---|
-| **Renan Perlingeiro de Abreu Junior** (Presidente) | **06/07/2022 — dia da abertura** | MPE/Abreu — assinou o contrato de concessão pela SPE; e-mail @mpeengenharia.com.br; hoje diretor-presidente da SPE |
-| **Cristiano Geo Quick** (Diretor) | 13/09/2024 | Quick/Sigla — família da Quick Pecuária, sócia da fundadora Sigla |
-| **Caio Marco de Stefano** (Diretor) | **12/06/2025** | Fortnort — sócio-administrador da fundadora Fortnort; havia "renunciado" ao Conselho da SPE em 05/10/2023 e **reapareceu na diretoria da controladora** |
-
-> **Conclusão central**: os três grupos fundadores (MPE/Abreu, Sigla/Quick, Fortnort/De Stefano) não saíram da concessão. Subiram um andar — para dentro da holding controladora, agora S.A. fechada, onde o cadastro público não revela acionistas.
-
-## 2. A ponte permanente: Marcelo de Castro é executivo do grupo MPE há duas décadas
-
-O QSA público das holdings do grupo MPE (as mesmas incluídas pela 8ª Vara Federal/RJ no grupo econômico de **Renato Ribeiro Abreu**, sob indisponibilidade de participações de out/2022 a mai/2025) mostra:
-
-- **MPE Participações em Agronegócios S/A** (CNPJ 04.743.819/0001-08, RJ): diretor **Marcelo de Castro Faria Ferreira desde 10/09/2001** (dia da constituição).
-- **MPE S/A Participações e Administração** (CNPJ 40.318.354/0001-01, RJ, capital R$ 20,6 mi): diretor **Marcelo de Castro Faria Ferreira desde 05/03/2009**.
-
-Marcelo de Castro foi: presidente do 1º Conselho da SPE (2022), **presidente da mesa da AGE de 05/10/2023** (a que revelou a GERPAR), presidente da mesa da AGE de 27/10/2025, e **segue conselheiro da SPE até hoje**. Ou seja: um executivo de 20+ anos do grupo MPE presidiu todos os atos-chave da "saída" da MPE e nunca deixou a companhia. A renúncia dele em 2023 foi apenas à Diretoria — ao Conselho, permaneceu.
-
-## 3. A mecânica jurídica da invisibilidade
-
-A operação usou quatro instrumentos, em camadas:
-
-1. **Transformação em S.A. no dia da assinatura do contrato (29/07/2022).** Em uma Ltda., troca de sócio exige alteração contratual arquivada na JUCESP — pública. Em uma S.A. fechada, ações se transferem por lançamento nos **livros privados** da companhia (arts. 31 e 100, Lei 6.404/76), sem qualquer registro público. A transformação, feita horas depois de assinar a concessão, é o que tornou possível a troca invisível de 2023.
-2. **Retenção dos livros.** O Livro de Registro e o de Transferência de Ações — única prova de quem vendeu, quando e por quanto — não foram fornecidos. O próprio estatuto (art. 6º, §3º) diz que a titularidade se presume pela inscrição nesses livros.
-3. **Acordo de Acionistas oculto (05/10/2023).** Assinado no dia da entrada de Carbogás/Redstone, arquivado só "na sede", nunca exibido. O estatuto reformado o incorporou como norma suprema: transferências que o violem são nulas (art. 6º, §4º) e votos contrários a ele não são computados (art. 9º, §único) — dispositivo usado em 26/11/2024 para anular o voto da Carbogás.
-4. **Opacidade em cascata.** A SPE é S.A. (QSA público mostra só administradores); a controladora GERPAR virou S.A. (idem); e sob os acionistas minoritários há holdings em 2-3 níveis. Nenhum beneficiário final é visível em cadastro público.
-
-## 4. Cronologia da montagem (mar–out/2022)
-
-| Data | Evento |
+| Campo | Dado |
 |---|---|
-| 30/03/2022 | Homologação/adjudicação ao Consórcio BAL |
-| 23/05/2022 | CIVAP concede +60 dias (a partir de 30/05) para constituir a SPE |
-| **06/07/2022** | **GERPAR é aberta**, com Renan Perlingeiro desde o dia 1 |
-| 15/07/2022 | SPE é aberta (CNPJ 47.167.066) |
-| 20/07/2022 | Tulipa (de Carlos Eduardo Alvim) entra no capital da **Carbogás** |
-| 29/07/2022 | Assinatura do contrato + transformação da SPE em S.A. + eleição da administração |
-| 07/10/2022 | Guedes e Glehn (von Glehn) entra no capital da **Redstone** |
-| 19–25/10/2022 | Justiça Federal/RJ decreta indisponibilidade das participações do grupo MPE |
+| Data de abertura | 06/07/2022 |
+| Natureza jurídica atual | Sociedade Anônima Fechada |
+| Nome fantasia | GER Participações |
+| CNAE principal | Holdings de instituições não-financeiras |
+| Capital social | R$ 6.000.000,00 |
+| Situação cadastral | Ativa |
+| Sede atual | Av. Nove de Julho, 5.617, sala 12A, 12º andar, Jardim Paulista, São Paulo/SP |
+| Sede em 2023 (ata de 05/10/2023) | Alameda Santos, 2.326, cj. 27, Cerqueira César, São Paulo/SP |
+| Telefone cadastral | (11) 5180-6666 |
 
-A janela mar–jul/2022 mostra movimentos coordenados em três pontas ao mesmo tempo: criação do veículo de controle (GERPAR), constituição da SPE e reorganizações societárias nos futuros sócios "novos" (Carbogás, Redstone) — mais de um ano antes de eles aparecerem formalmente na SPE. Os AFACs capitalizados em 05/10/2023 (R$ 428 mil da Carbogás; R$ 148 mil da Redstone) confirmam que ambos já aportavam dinheiro na SPE antes de serem acionistas.
+Datas de referência para contextualização: o CNPJ da SPE foi aberto em 15/07/2022; o Contrato de Concessão CIVAP nº 02/2022 foi assinado em 29/07/2022. A abertura da GERPAR (06/07/2022) é anterior a ambos.
 
-## 5. Árvore societária completa (cadastros públicos, 13/08/2026)
+Registros coincidentes entre GERPAR e outras pessoas do caso:
+- O telefone cadastral da GERPAR, (11) 5180-6666, é o mesmo telefone cadastral da SPE (comprovante CNPJ da SPE, acervo).
+- O endereço da GERPAR na ata de 05/10/2023 (Alameda Santos, 2.326, cj. 27) corresponde à primeira sede da SPE (até 31/05/2023) e ao domicílio declarado por Fernando Peixoto de Paula Lima no contrato de concessão. A MPE Engenharia tem sede cadastral no mesmo edifício (cj. 144).
+
+Por ser sociedade anônima, o QSA público da GERPAR relaciona administradores; os acionistas não constam do cadastro público.
+
+## 2. Administração da GERPAR (QSA público, 13/08/2026)
+
+| Nome | Qualificação | Data de entrada | Outros vínculos documentados |
+|---|---|---|---|
+| Renan Perlingeiro de Abreu Junior | Presidente | 06/07/2022 (data de abertura da sociedade) | Signatário do contrato de concessão pela SPE (29/07/2022); diretor da SPE desde 29/07/2022 e diretor-presidente desde 05/10/2023; representante da GERPAR nas AGEs de 2023 e 2024; e-mail @mpeengenharia.com.br em assinatura eletrônica (ata de 2022). CPF confere com as atas |
+| Cristiano Geo Quick | Diretor | 13/09/2024 | Representante da GERPAR na AGE de 26/11/2024. CPF confere com a ata |
+| Caio Marco de Stefano | Diretor | 12/06/2025 | Sócio-administrador da Fortnort (consorciada originária); conselheiro da SPE de 29/07/2022 até a renúncia em 05/10/2023. CPF confere com as atas |
+
+Observação factual: os três administradores atuais da GERPAR possuem, cada um, vínculo documentado com um dos três grupos presentes na estrutura original ou atual — Renan Perlingeiro (representações ligadas à MPE), Cristiano Geo Quick (mesmo sobrenome dos sócios da Quick Pecuária, sócia da Sigla; parentesco não comprovado), Caio Marco de Stefano (Fortnort).
+
+## 3. Vínculos de administradores da SPE com o grupo MPE (cadastro público)
+
+- **MPE Participações em Agronegócios S/A** (CNPJ 04.743.819/0001-08, Rio de Janeiro/RJ): Marcelo de Castro Faria Ferreira consta como diretor com entrada em 10/09/2001.
+- **MPE S/A Participações e Administração** (CNPJ 40.318.354/0001-01, Rio de Janeiro/RJ, capital R$ 20.594.284): Marcelo de Castro Faria Ferreira consta como diretor com entrada em 05/03/2009.
+
+Ambas as sociedades foram incluídas, com a MPE Engenharia e Renato Ribeiro Abreu, no polo passivo da Execução Fiscal nº 5095608-04.2019.4.02.5101/RJ, com decreto de indisponibilidade de participações societárias (decisão de 19/10/2022; registro JUCESP 25/10/2022; levantamento em maio/2025).
+
+Na SPE, Marcelo de Castro Faria Ferreira foi presidente do Conselho de Administração (29/07/2022), diretor sem designação específica (renúncia em 05/10/2023), presidente da mesa das AGEs de 05/10/2023 e 27/10/2025, e permanece conselheiro conforme certidão simplificada de 28/07/2026.
+
+## 4. Aspectos registrais das transferências de participação
+
+1. Em 29/07/2022, na mesma data da assinatura do contrato de concessão, a SPE foi transformada de sociedade limitada em sociedade anônima fechada (1ª Alteração Contratual, registro JUCESP 606.306/22-5). Efeito registral da forma S.A.: transferências de ações operam-se por lançamento nos livros sociais (arts. 31 e 100, Lei 6.404/76) e não são objeto de arquivamento na Junta Comercial, diferentemente da cessão de quotas em sociedade limitada.
+2. O Livro de Registro de Ações Nominativas e o Livro de Transferência de Ações da SPE não integram o acervo. O estatuto social (art. 6º, §3º, versões de 2023 e 2024) estabelece que a titularidade das ações se presume pela inscrição no Livro de Registro.
+3. A ata da AGE de 05/10/2023 refere Acordo de Acionistas assinado na mesma data e arquivado na sede da companhia. O documento não integra o acervo. O estatuto reformado dispõe que transferências de ações em violação ao Acordo não serão válidas (art. 6º, §4º) e que votos proferidos em desacordo com ele não serão computados (aplicado na AGE de 26/11/2024 quanto ao voto da Carbogás, com invocação do art. 118, §8º, da Lei 6.404/76).
+4. A GERPAR, constituída como limitada em 2022 (ata de 05/10/2023 a qualifica como "sociedade limitada"), figura no cadastro atual como sociedade anônima fechada. A data e o instrumento da transformação não constam do acervo.
+
+## 5. Cronologia societária de 2022 (constituições e alterações no período)
+
+| Data | Evento | Fonte |
+|---|---|---|
+| 30/03/2022 | Homologação e adjudicação ao Consórcio BAL | Homologação, acervo |
+| 23/05/2022 | CIVAP defere prazo suplementar de 60 dias, a partir de 30/05/2022, para constituição da SPE | Prazo Suplementar, acervo |
+| 06/07/2022 | Abertura da GERPAR; Renan Perlingeiro com entrada na mesma data | Cadastro RFB |
+| 15/07/2022 | Abertura do CNPJ da BAL CIVAP SPE Ltda. | Comprovante CNPJ, acervo |
+| 20/07/2022 | Entrada da Tulipa Participações no quadro da Carbogás | Cadastro RFB |
+| 29/07/2022 | Assinatura do contrato de concessão; 1ª Alteração (capital R$ 5 mi; transformação em S.A.); eleição de Conselho e Diretoria | Contrato e atas, acervo |
+| 07/10/2022 | Entrada da Guedes e Glehn Participações no quadro da Redstone | Cadastro RFB |
+| 19–25/10/2022 | Decreto e registro de indisponibilidade de participações do grupo MPE | Peças judiciais, acervo |
+
+Registre-se ainda que, na AGE de 05/10/2023, parte da integralização de Carbogás e Redstone deu-se por capitalização de Adiantamentos para Futuro Aumento de Capital (R$ 428.154,00 e R$ 148.207,00, respectivamente), o que documenta aportes financeiros dessas sociedades à SPE anteriores ao seu ingresso formal no capital.
+
+## 6. Árvore societária (cadastros públicos e acervo, 13/08/2026)
 
 ```
 BAL CIVAP SPE S.A. (47.167.066/0001-34) — concessionária
-│  administração: Renan Perlingeiro (DP) · Luciano Infiesta (DT)
-│  conselho: Carlos Geo Quick (pres.) · Marcelo de Castro
+│  Diretoria: Renan Perlingeiro (dir.-presidente) · Luciano Reis Infiesta (dir. técnico)
+│  Conselho: Carlos Geo Quick (presidente) · Marcelo de Castro Faria Ferreira
 │
 ├── ~65% GERPAR — Geração de Energia por Resíduos Participações S.A. (47.053.381/0001-30)
-│      aberta 06/07/2022 · S.A. fechada → ACIONISTAS OCULTOS
-│      diretoria: Renan Perlingeiro (pres., desde 06/07/2022)
+│      abertura 06/07/2022 · S.A. fechada (acionistas não constam do cadastro público)
+│      Diretoria: Renan Perlingeiro (presidente, desde 06/07/2022)
 │                 Cristiano Geo Quick (desde 13/09/2024)
-│                 Caio Marco de Stefano (desde 12/06/2025) ← ex-Fortnort/ex-conselho SPE
+│                 Caio Marco de Stefano (desde 12/06/2025)
 │
-├── ~26% CARBOGÁS ENERGIA LTDA (02.863.675/0001-90) — SBC/SP, capital R$ 12 mi
-│      ├── GRSU Participações (59.526.081/0001-00) — aberta 18/02/2025, entra 07/03/2025
-│      │      família Infiesta: Luciano, Lara e Luiz Roberto Reis Infiesta
-│      └── Tulipa Participações (29.306.833/0001-67) — capital R$ 10 MIL, entra 20/07/2022
-│             adm. Carlos Eduardo Alvim
-│             └── MC2 Construções (15.097.374/0001-44) — sócia desde 26/07/2023
-│                    Carlos Eduardo Alvim, sócio-adm.
+├── ~26% CARBOGÁS ENERGIA LTDA (02.863.675/0001-90) — S. Bernardo do Campo/SP, capital R$ 12 mi
+│      ├── GRSU Participações Ltda. (59.526.081/0001-00) — abertura 18/02/2025; sócia desde 07/03/2025
+│      │      Luciano, Lara e Luiz Roberto Reis Infiesta (sócios-administradores)
+│      └── Tulipa Participações Ltda. (29.306.833/0001-67) — capital R$ 10 mil; sócia desde 20/07/2022
+│             Carlos Eduardo Alvim (administrador)
+│             └── MC2 Construções Ltda. (15.097.374/0001-44) — sócia da Tulipa desde 26/07/2023
+│                    Carlos Eduardo Alvim (sócio-administrador)
 │
-└── ~9% REDSTONE PARTICIPAÇÕES (15.582.475/0001-00) — SP, capital R$ 500 mil
-       ├── Athos Rache Filho (sócio-adm. desde 2012)
-       ├── Guedes e Glehn Participações (41.864.555/0001-69) — Taboão da Serra,
-       │      capital R$ 152 mil, entra 07/10/2022 · família von Glehn
-       └── Ventura Empreendimentos (13.394.016/0001-78) — RJ, capital R$ 5 mi
-              Athos Rache Filho + Athos Rache Neto
-              └── Fortago Gestão (33.580.846/0001-05) — Brasília, capital R$ 0
-                     Julia Costa Gonçalves + Luiz Henrique Costa Gonçalves + Athos Rache Neto
+└── ~9% REDSTONE PARTICIPAÇÕES LTDA (15.582.475/0001-00) — São Paulo/SP, capital R$ 500 mil
+       ├── Athos Rache Filho (sócio-administrador desde 2012)
+       ├── Guedes e Glehn Participações Ltda. (41.864.555/0001-69) — Taboão da Serra/SP,
+       │      capital R$ 152,3 mil; sócia desde 07/10/2022 · Ricardo von Glehn e Lucineide Guedes
+       └── Ventura Empreendimentos Ltda. (13.394.016/0001-78) — Rio de Janeiro/RJ, capital R$ 5 mi
+              Athos Rache Filho · Athos Rache Neto
+              └── Fortago Gestão e Consultoria Ltda. (33.580.846/0001-05) — Brasília/DF
+                     Julia Costa Gonçalves · Luiz Henrique Costa Gonçalves · Athos Rache Neto
 
-FUNDADORAS (saíram formalmente da SPE entre 31/05 e 05/10/2023):
-├── SIGLA (07.976.282/0001-06) — Nova Lima/MG
-│      João Lucas M. B. de Alcobaça Campos + QUICK PECUÁRIA (06.259.104/0001-00,
-│      Esmeraldas/MG, criação de ovinos): Carlos, Juliana e Tatiana Ferreira Quick
-├── MPE ENGENHARIA (04.743.858/0001-05) — capital R$ 1 bi · grupo Renato Ribeiro Abreu
-│      irmãs: MPE Agronegócios (04.743.819) e MPE S/A Participações (40.318.354)
-│      → diretor de ambas desde 2001/2009: MARCELO DE CASTRO FARIA FERREIRA
-└── FORTNORT (00.900.846/0001-88) — Santos/SP, capital R$ 61 mi
-       Caio Marco + Marco Antonio De Stefano + Auditerra (58.994.138, Santos)
+CONSORCIADAS ORIGINÁRIAS (acionistas da SPE até data entre 31/05 e 05/10/2023):
+├── SIGLA Sinalização e Construções Ltda. (07.976.282/0001-06) — Nova Lima/MG
+│      João Lucas Mansur Barros de Alcobaça Campos (sócio-adm.)
+│      Quick Pecuária Ltda. (06.259.104/0001-00, Esmeraldas/MG): Carlos, Juliana e
+│      Tatiana Ferreira Quick (sócios desde 2004)
+├── MPE Engenharia e Serviços S/A (04.743.858/0001-05) — capital R$ 1 bilhão
+│      Sociedades relacionadas (mesma execução fiscal): MPE Participações em
+│      Agronegócios (04.743.819) e MPE S/A Participações (40.318.354) — Marcelo de
+│      Castro Faria Ferreira diretor de ambas (desde 2001 e 2009)
+└── FORTNORT Desenvolvimento Ambiental e Urbano Ltda. (00.900.846/0001-88) — Santos/SP, capital R$ 61 mi
+       Caio Marco de Stefano (sócio-adm. desde 2003) · Marco Antonio de Stefano ·
+       Auditerra Terraplenagem Ltda. (58.994.138/0001-33, Santos/SP)
 ```
 
-## 6. Os três campos e suas pontes com o novo bloco
+## 7. Correspondências de pessoas entre a estrutura original e a atual
 
-| Campo fundador | Na fundadora | Na estrutura atual |
+| Grupo | Presença na estrutura original | Presença na estrutura atual |
 |---|---|---|
-| **Abreu/MPE** (RJ) | Controlador: Renato Ribeiro Abreu (decl. judicial); diretor de holdings: Marcelo de Castro | Renan Perlingeiro de Abreu Jr.: presidente da GERPAR e diretor-presidente da SPE; Marcelo de Castro: conselheiro da SPE; Adagir de Salles Abreu Filho: conselheiro 2025-26 |
-| **Quick/Sigla** (MG) | Quick Pecuária (Carlos, Juliana, Tatiana Ferreira Quick) sócia da Sigla | Carlos Geo Quick: presidente do Conselho da SPE; Cristiano Geo Quick: diretor da GERPAR |
-| **De Stefano/Fortnort** (Santos) | Caio Marco e Marco Antonio De Stefano | Caio Marco de Stefano: diretor da GERPAR desde 12/06/2025 |
+| Ligados à MPE | Renato Ribeiro Abreu (controlador do grupo, conforme decisão judicial); Marcelo de Castro (diretor de holdings MPE) | Renan Perlingeiro de Abreu Junior (presidente da GERPAR; diretor-presidente da SPE); Marcelo de Castro (conselheiro da SPE); Adagir de Salles Abreu Filho (conselheiro da SPE, out/2025–jun/2026) |
+| Sobrenome Quick | Quick Pecuária (sócia da Sigla): Carlos, Juliana e Tatiana Ferreira Quick | Carlos Geo Quick (presidente do Conselho da SPE); Cristiano Geo Quick (diretor da GERPAR) |
+| Família De Stefano | Caio Marco e Marco Antonio de Stefano (Fortnort) | Caio Marco de Stefano (diretor da GERPAR desde 12/06/2025) |
 
-Vínculos de parentesco não estão comprovados documentalmente (a coincidência de sobrenomes é indício; a identidade das pessoas físicas recorrentes está confirmada por CPF nos casos de Renan, Caio, Cristiano, Alvim e Infiesta).
+A identidade das pessoas físicas recorrentes está confirmada por CPF nos casos de Renan Perlingeiro, Caio Marco de Stefano, Cristiano Geo Quick, Carlos Eduardo Alvim e Luciano Reis Infiesta. Relações de parentesco entre pessoas de mesmo sobrenome não estão comprovadas nos documentos disponíveis.
 
-## 7. Fatos vs. inferências
+## 8. Fatos documentados
 
-**Fatos documentais/cadastrais:**
-- GERPAR aberta em 06/07/2022, antes do contrato, com Renan Perlingeiro desde o dia 1 (cadastro RFB);
-- Caio Marco de Stefano diretor da GERPAR desde 12/06/2025 (cadastro RFB; CPF confere com as atas);
-- Marcelo de Castro diretor das holdings MPE desde 2001/2009 (cadastro RFB);
-- GERPAR e SPE compartilham telefone cadastral e compartilharam endereço;
-- Transformação em S.A. no dia da assinatura; livros e Acordo de Acionistas não exibidos;
-- Tulipa→Carbogás em 20/07/2022 e Guedes e Glehn→Redstone em 07/10/2022 (cadastro RFB);
-- AFACs de Carbogás e Redstone capitalizados em 05/10/2023 (atas do acervo).
+1. A GERPAR foi aberta em 06/07/2022, antes da abertura do CNPJ da SPE (15/07/2022) e da assinatura do contrato de concessão (29/07/2022), com Renan Perlingeiro de Abreu Junior registrado desde a data de abertura (cadastro RFB).
+2. Caio Marco de Stefano, sócio-administrador da Fortnort e ex-conselheiro da SPE (renúncia em 05/10/2023), consta como diretor da GERPAR com entrada em 12/06/2025 (cadastro RFB; CPF confere com as atas).
+3. Marcelo de Castro Faria Ferreira consta como diretor de duas holdings do grupo MPE desde 2001 e 2009 (cadastro RFB) e integra a administração da SPE desde a constituição até a data das certidões mais recentes (acervo).
+4. GERPAR e SPE compartilham o telefone cadastral; GERPAR e SPE tiveram sede no mesmo conjunto (Alameda Santos, 2.326, cj. 27), que é também o domicílio declarado de Fernando Peixoto no contrato (acervo e cadastro RFB).
+5. A transformação da SPE em S.A. ocorreu na data da assinatura do contrato; os livros de ações e o Acordo de Acionistas de 05/10/2023 não integram o acervo (acervo).
+6. Tulipa Participações entrou no quadro da Carbogás em 20/07/2022; Guedes e Glehn entrou no quadro da Redstone em 07/10/2022; GRSU Participações foi aberta em 18/02/2025 e entrou no quadro da Carbogás em 07/03/2025 (cadastro RFB).
+7. Carbogás e Redstone realizaram aportes (AFAC) à SPE antes de seu ingresso formal no capital, capitalizados em 05/10/2023 (atas do acervo).
 
-**Inferências fortes (pendentes de documento):**
-- A "saída" das fundadoras foi rearranjo interno, não alienação a terceiros — os mesmos grupos administram a controladora;
-- A montagem foi planejada antes da assinatura do contrato (GERPAR pré-existente, nome e objeto sob medida);
-- O acionariato oculto da GERPAR contém (ou beneficia) os mesmos grupos fundadores — só os livros/atos societários da GERPAR podem confirmar.
+## 9. Questões em aberto (não respondidas pelos documentos disponíveis)
 
-**O que confirmaria/refutaria:** atos constitutivos e livro de acionistas da GERPAR (JUCESP: constituição de 06/07/2022 e transformação em S.A.); instrumento de cessão das ações da SPE; Acordo de Acionistas de 05/10/2023; processo de anuência no CIVAP (se existir).
+1. Quem são os acionistas da GERPAR — o QSA público de S.A. não os informa; a resposta consta dos atos societários da GERPAR na JUCESP (constituição de 06/07/2022, transformação em S.A.) e de seu livro de acionistas.
+2. Data, instrumento, preço e condições da transferência das ações de Sigla, MPE e Fortnort para a GERPAR.
+3. Existência ou não de processo de anuência prévia do CIVAP à alteração do controle (item 22.5 do edital; cláusulas 9.4 e 34 do contrato).
+4. Conteúdo do Acordo de Acionistas de 05/10/2023.
+5. Relações de parentesco entre pessoas de mesmo sobrenome (Quick; Abreu; De Stefano — esta última família documentada na Fortnort, mas sem documento sobre a relação entre Caio e Marco Antonio).
+6. Beneficiários finais das holdings de segundo e terceiro nível.
 
 ---
 
-*Fontes: acervo `documentos/` (atas, estatutos e peças judiciais registradas na JUCESP) e cadastro público da RFB via BrasilAPI, consultado em 13/08/2026. QSAs públicos de S.A. exibem administradores, não acionistas; datas de entrada de sócio são as informadas pelo cadastro vigente.*
+*Fontes: acervo `documentos/` (atas, estatutos, contrato, edital e peças judiciais registradas na JUCESP) e cadastro público da RFB via BrasilAPI, consultado em 13/08/2026. Limitações: QSAs públicos de sociedades anônimas exibem administradores, não acionistas; as datas de entrada de sócio refletem o cadastro vigente na data da consulta.*
