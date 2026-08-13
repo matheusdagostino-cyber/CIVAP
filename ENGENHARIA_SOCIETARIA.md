@@ -24,6 +24,8 @@ Este documento registra fatos e datas com suas fontes. Hipóteses e questões pe
 
 Datas de referência para contextualização: o CNPJ da SPE foi aberto em 15/07/2022; o Contrato de Concessão CIVAP nº 02/2022 foi assinado em 29/07/2022. A abertura da GERPAR (06/07/2022) é anterior a ambos.
 
+**Origem da constituição** — segundo informação prestada pelo titular do acervo (ato constitutivo não incluído nos documentos disponíveis), a GERPAR Ltda. foi constituída pelas próprias licitantes originárias (Sigla, MPE e Fortnort). A informação é compatível com os dados cadastrais: abertura dentro do prazo concedido pelo CIVAP para constituição da SPE (23/05–29/07/2022), presença de Renan Perlingeiro desde a data de abertura e coincidência de endereço e telefone com a SPE. A confirmação documental depende do ato constitutivo e das alterações contratuais da GERPAR arquivados na JUCESP — registros que, no período em que a GERPAR foi sociedade limitada, são públicos e informam o quadro de quotistas.
+
 Registros coincidentes entre GERPAR e outras pessoas do caso:
 - O telefone cadastral da GERPAR, (11) 5180-6666, é o mesmo telefone cadastral da SPE (comprovante CNPJ da SPE, acervo).
 - O endereço da GERPAR na ata de 05/10/2023 (Alameda Santos, 2.326, cj. 27) corresponde à primeira sede da SPE (até 31/05/2023) e ao domicílio declarado por Fernando Peixoto de Paula Lima no contrato de concessão. A MPE Engenharia tem sede cadastral no mesmo edifício (cj. 144).
@@ -135,14 +137,27 @@ A identidade das pessoas físicas recorrentes está confirmada por CPF nos casos
 6. Tulipa Participações entrou no quadro da Carbogás em 20/07/2022; Guedes e Glehn entrou no quadro da Redstone em 07/10/2022; GRSU Participações foi aberta em 18/02/2025 e entrou no quadro da Carbogás em 07/03/2025 (cadastro RFB).
 7. Carbogás e Redstone realizaram aportes (AFAC) à SPE antes de seu ingresso formal no capital, capitalizados em 05/10/2023 (atas do acervo).
 
+## 8-A. Implicações da constituição pelas licitantes originárias (leitura condicionada à confirmação documental)
+
+Admitida a informação de que a GERPAR Ltda. foi constituída por Sigla, MPE e Fortnort, a passagem das ações da SPE para a GERPAR em 2023 caracteriza-se, no momento em que ocorreu, como migração de participação direta para participação indireta (interposição de holding), e não como alienação a terceiros. Dessa caracterização decorrem os seguintes pontos, todos dependentes de documentos ainda não disponíveis:
+
+1. **Espelhamento exigido pelo edital**: o item 22.3.1 determina que a SPE tenha como sócias as empresas integrantes do consórcio, com as mesmas participações. A interposição da holding alterou o quadro direto da SPE em relação a essa configuração. Se as proporções na GERPAR reproduziam as do consórcio (44,5/44,5/11), a titularidade em último grau permanecia, naquele momento, com as mesmas empresas.
+2. **Enquadramento da anuência**: as cláusulas 9.4 e 34 do contrato e o item 22.5 do edital tratam de transferência do controle societário. A qualificação da interposição de holding pelos mesmos titulares como "transferência de controle" — e, portanto, a exigibilidade de anuência prévia para esse ato específico — é questão interpretativa; a cláusula 34.2 alcança expressamente transferências indiretas por meio de controladores, o que desloca o exame para as mudanças ocorridas no quadro da própria GERPAR.
+3. **Deslocamento do ponto de verificação**: com a holding interposta, alterações de titularidade em último grau passam a ocorrer no nível da GERPAR. Enquanto sociedade limitada, essas alterações eram públicas (arquivamento de alterações contratuais na JUCESP); após a transformação em sociedade anônima, transferências de ações da GERPAR deixaram de ser objeto de registro público. A data da transformação da GERPAR em S.A. não consta do acervo.
+4. **Interseção com a indisponibilidade judicial**: se a MPE era quotista da GERPAR desde 2022, a ordem de indisponibilidade de participações do grupo MPE (registrada na JUCESP em 25/10/2022, levantada em maio/2025) alcançava também essas quotas. Eventuais alterações na participação da MPE na GERPAR nesse intervalo demandam verificação nos autos e na ficha cadastral.
+5. **Composição atual**: a permanência ou não das três licitantes na titularidade da GERPAR ao longo de 2023–2026 não é verificável em cadastro público após a transformação em S.A. A presença de Caio Marco de Stefano (Fortnort) na diretoria da GERPAR desde 12/06/2025 e de Cristiano Geo Quick desde 13/09/2024 são os únicos indicadores públicos disponíveis sobre o período recente.
+
+Documento-chave para todo o bloco: **ficha cadastral completa da GERPAR na JUCESP**, que relaciona os arquivamentos da fase limitada (constituição, quadro de quotistas, alterações e transformação em S.A.).
+
 ## 9. Questões em aberto (não respondidas pelos documentos disponíveis)
 
-1. Quem são os acionistas da GERPAR — o QSA público de S.A. não os informa; a resposta consta dos atos societários da GERPAR na JUCESP (constituição de 06/07/2022, transformação em S.A.) e de seu livro de acionistas.
-2. Data, instrumento, preço e condições da transferência das ações de Sigla, MPE e Fortnort para a GERPAR.
-3. Existência ou não de processo de anuência prévia do CIVAP à alteração do controle (item 22.5 do edital; cláusulas 9.4 e 34 do contrato).
-4. Conteúdo do Acordo de Acionistas de 05/10/2023.
-5. Relações de parentesco entre pessoas de mesmo sobrenome (Quick; Abreu; De Stefano — esta última família documentada na Fortnort, mas sem documento sobre a relação entre Caio e Marco Antonio).
-6. Beneficiários finais das holdings de segundo e terceiro nível.
+1. Confirmação documental da constituição da GERPAR pelas licitantes originárias, e as proporções de cada uma no capital (ato constitutivo de 06/07/2022 e alterações da fase limitada, na JUCESP).
+2. Quem são os acionistas atuais da GERPAR — o QSA público de S.A. não os informa; a resposta consta dos atos societários da GERPAR na JUCESP (transformação em S.A.) e de seu livro de acionistas.
+3. Data, instrumento, preço e condições da transferência das ações da SPE de Sigla, MPE e Fortnort para a GERPAR.
+4. Existência ou não de processo de anuência prévia (ou comunicação) ao CIVAP quanto à interposição da holding e às alterações subsequentes (item 22.5 do edital; cláusulas 9.4 e 34 do contrato).
+5. Conteúdo do Acordo de Acionistas de 05/10/2023.
+6. Relações de parentesco entre pessoas de mesmo sobrenome (Quick; Abreu; De Stefano — esta última família documentada na Fortnort, mas sem documento sobre a relação entre Caio e Marco Antonio).
+7. Beneficiários finais das holdings de segundo e terceiro nível.
 
 ---
 
